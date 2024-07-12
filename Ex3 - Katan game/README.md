@@ -1,6 +1,3 @@
-Here's a designed version of your README file for the Catan game implementation:
-
----
 
 # Catan Game Implementation
 
@@ -165,6 +162,4 @@ Represents the Catan game itself, managing the board, players, and gameplay.
 - `getPlayer1()`, `getPlayer2()`, `getPlayer3()`: Returns the respective player.
 - `getBoard()`: Returns the game board.
 
----
 
-You can now use this formatted text as your README.md file in your repository. Adjust any formatting or additional details as needed.
