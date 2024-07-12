@@ -1,3 +1,9 @@
+![image](https://github.com/user-attachments/assets/c62e54dd-b055-42e7-ad15-9c246b009a82)
+
+
+
+
+
 
 # Catan Game Implementation
 
