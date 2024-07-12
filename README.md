@@ -1,7 +1,4 @@
 ![image](https://github.com/user-attachments/assets/c62e54dd-b055-42e7-ad15-9c246b009a82)
-
-
-
 # Catan Game Implementation
 
 This project implements the classic board game Catan using C++. The implementation includes several classes that represent the different components of the game, such as vertices, edges, tiles, players, and various types of cards. Below is an overview of the classes, their attributes, and methods.
